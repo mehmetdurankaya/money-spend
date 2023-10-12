@@ -6,3 +6,5 @@
 - Bir üründen hiçbir tane alınmamışsa "Sell" butonu pasif durumdadır.
 - Herhangi ürünün fiyatı, bakiyeden yüksek ise "Buy" butonu pasif durumdadır.
 - Satın alınan ürünler ekranın en altında adetleri ve toplam bedelleri ile birlikte listelenmektedir.
+
+![Alt text](<Bill Gates Money.png>)
